@@ -21,7 +21,7 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.firefox import GeckoDriverManager
 from multiprocessing import Pool, Manager, Lock
 from concurrent.futures import ThreadPoolExecutor
-from youtube_comment_scraper import get_comments
+# from youtube_comment_scraper import get_comments
 
 def install_chrome_webdriver_latest():
     # credit https://stackoverflow.com/a/62023168 for this function

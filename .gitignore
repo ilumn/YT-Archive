@@ -1,12 +1,9 @@
 .env
 metadata.json
-test.py
-test2.py
-__pycache__/main.cpython-310.pyc
-__pycache__/scraper.cpython-310.pyc
-__pycache__/test2.cpython-310.pyc
-__pycache__/youtube_comment_scraper.cpython-310.pyc
+testing/*
+__pycache__/*
 test.html
 LICENSE.chromedriver
 chromedriver.exe
 phantomjs.exe
+notes
