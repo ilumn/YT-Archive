@@ -47,6 +47,15 @@ This project provides a straightforward tool for bulk downloading videos from a 
     
     Download and configure the Chrome WebDriver if it is not automatically installed by the tool. Make sure the WebDriver executable is in your system's PATH or in the project directory.
 
+2. Configure the environment (see [Configuration](#configuration))
+
+    Modify the ```.env.template``` file with your parameters and save as ```.env```
+
+3. Run the tool (see [Usage](#usage))
+    ```bash
+    python main.py
+    ```
+
 ## Usage
 
 You can use this tool to download videos and scrape comments from a YouTube channel. Here are some usage examples:
@@ -61,7 +70,6 @@ python main.py --use-mongodb --processes 4
 Downloading Videos and Scraping Comments (Single-Processing)
 
 ```bash
-
 python main.py --use-mongodb --single-processing
 ```
     --single-processing: Skip multiprocessing and download videos one at a time. 
