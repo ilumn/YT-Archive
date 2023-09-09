@@ -100,6 +100,7 @@ listed in order of highest to lowest priority.
 - add support to use this tool (especially the comment scraper) as a library for other projects
 - possible switch to concurrent futures for multithreading
 - possible rewrite using pafy, yt-dl, or youtube-dl instead of pytube
+- configure github application testing
 
 ## License
 This project is licensed under the GNU GPLv3 License. See the LICENSE file for details.
