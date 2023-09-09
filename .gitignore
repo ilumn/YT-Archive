@@ -7,3 +7,5 @@ __pycache__/scraper.cpython-310.pyc
 __pycache__/test2.cpython-310.pyc
 __pycache__/youtube_comment_scraper.cpython-310.pyc
 test.html
+LICENSE.chromedriver
+chromedriver.exe
