@@ -69,7 +69,7 @@ python main.py --use-mongodb --single-processing
 
 ## Configuration
 
-Before running the tool, you'll need to configure it by setting environment variables. Create a .env file and add the following variables:
+Before running the tool, you'll need to configure it by setting environment variables. Create a .env file and add the following variables (.env.template available):
 
     MONGODB_URI: MongoDB connection URI (if using MongoDB).
     MONGODB_DB: MongoDB database name (if using MongoDB).
