@@ -89,6 +89,7 @@ listed in order of highest to lowest priority.
 - add age gate bypassing (for downloading age restricted or content restricted videos)
 - add video description to metadata
 - add command line flag to save more metadata such as the youtube channel's subscribers at the time of download, pinned comments, video advertising id/hotspots available codecs/resolutoins, etc.
+- add support to use this tool (especially the comment scraper) as a library for other projects
 - possible switch to concurrent futures for multithreading
 - possible rewrite using pafy, yt-dl, or youtube-dl instead of pytube
 
