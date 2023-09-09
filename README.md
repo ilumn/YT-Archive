@@ -94,4 +94,4 @@ listed in order of highest to lowest priority.
 - possible rewrite using pafy, yt-dl, or youtube-dl instead of pytube
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the GNU GPLv3 License. See the LICENSE file for details.
