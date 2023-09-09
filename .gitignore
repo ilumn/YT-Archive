@@ -9,3 +9,4 @@ __pycache__/youtube_comment_scraper.cpython-310.pyc
 test.html
 LICENSE.chromedriver
 chromedriver.exe
+phantomjs.exe
